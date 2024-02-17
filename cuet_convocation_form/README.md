@@ -8,7 +8,7 @@
 ![1](https://github.com/Zayed-Rahat/Internship_business_automation/blob/main/cuet_convocation_form/UI_SS/Data_save_as_draft.png)
 
 
-`Draft Data Can be Editable`
+`Draft Data Can be Editable. For example:(CG & Name edited)`
 
 ![2](https://github.com/Zayed-Rahat/Internship_business_automation/blob/main/cuet_convocation_form/UI_SS/Editable_draft_data.png)
 
