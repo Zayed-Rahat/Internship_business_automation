@@ -1,0 +1,5 @@
+relative_humidity = 87.90138674884437
+temperature_average = 2.734720229555237
+wind_speed_average = 3.9195121951219516
+precipitation_amount = 0.0
+pressure_average = 1012.6341463414634
